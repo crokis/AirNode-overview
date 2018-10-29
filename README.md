@@ -1,7 +1,7 @@
 # AirNode Overview
-This project was developed entirely by me for the French Aeronautics Federation, in order to manage the livetracking of the AirNavigationRace French championships. 
+This project was developed entirely by me for the French Aeronautics Federation, in order to manage LiveTracking of AirNavigationRace French championships. 
 
-The project started in January 2018, and is still maintained for the next sports seasons. These app work together with TrackAnalyzer, developed in teamwork !
+The project started in January 2018, and is still maintained for the next sports seasons. These app work together with TrackAnalyzer, developed in teamwork also !
 
 ## AirNode Manager
 AirNode Manager is developed with the PHP Laravel framework, and is used to administer the Node.js server processing data received in real time from GPS recorders. The edition of competitions, navigations, participants, administration accounts and configuration is done directly on this interface.
